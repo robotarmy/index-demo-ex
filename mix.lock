@@ -1,0 +1,4 @@
+%{
+  "ets": {:hex, :ets, "0.4.0", "22a3a3d7743fb9ed613068736a873d380ccab65c7f671507167ccd5a3515c321", [:mix], [], "hexpm", "02fed9c14cc2b13ee304bba328e7a20f824f0dad5359e1734c656b72e7523336"},
+  "heap": {:hex, :heap, "3.0.0", "c6dbcd6e9a0b021432176e89cfd829dd065bd6c115981fdcd981a4251fff5fde", [:mix], [], "hexpm", "373eaca5787e2a2b009c42338e70414f590ceabcf96cfc786627ed762ad4dfc6"},
+}
